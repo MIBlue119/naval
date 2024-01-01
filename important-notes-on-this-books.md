@@ -2,27 +2,27 @@
 
 I built the Navalmanack entirely out of transcripts, Tweets, and talks Naval has shared. Every attempt is made to present Naval in his own words. However, there are a few important points.
 
-我完全根据纳瓦尔分享的文字记录、推文和谈话建立了纳瓦尔马纳克。每一次尝试都是用他自己的话来呈现纳瓦尔。然而，有几点很重要。
+我完全根據納瓦爾分享的文字記錄、推文和談話建立了納瓦爾馬納克。每一次嘗試都是用他自己的話來呈現納瓦爾。然而，有幾點很重要。
 
-* The transcripts have been edited for clarity and brevity (multiple times). 为清晰和简洁起见(多次)，文字记录经过了编辑。
-* Not all sources are primary (some excerpts are from other writers quoting Naval). 并不是所有的资料都是第一手的(有些摘录来自其他作家引用纳瓦尔的话)。
-* I can’t be 100 percent certain of every source’s authenticity. 我不能百分之百确定每个消息来源的真实性。
-* Concepts and interpretations change over time, medium, and context. 概念和解释会随着时间、媒介和上下文的变化而变化。
-* Please verify phrasing with a primary source before citing Naval from this text. 在引用本文中的Naval之前，请与主要来源核实措辞。
-* Please interpret generously. 请慷慨地翻译。
+* The transcripts have been edited for clarity and brevity (multiple times). 為清晰和簡潔起見(多次)，文字記錄經過了編輯。
+* Not all sources are primary (some excerpts are from other writers quoting Naval). 並不是所有的資料都是第一手的(有些摘錄來自其他作家引用納瓦爾的話)。
+* I can’t be 100 percent certain of every source’s authenticity. 我不能百分之百確定每個訊息來源的真實性。
+* Concepts and interpretations change over time, medium, and context. 概念和解釋會隨著時間、媒介和上下文的變化而變化。
+* Please verify phrasing with a primary source before citing Naval from this text. 在引用本文中的Naval之前，請與主要來源核實措辭。
+* Please interpret generously. 請慷慨地翻譯。
 
 By definition, everything in this book is taken out of context. Interpretations will change over time. Read and interpret generously. Understand the original intent may be different than your interpretation in a different time, medium, format, and context.
 
-根据定义，这本书中的一切都是断章取义。解释会随着时间的推移而改变。宽宏大量地阅读和口译。理解原意可能与您在不同时间、不同介质、不同格式和不同背景下的解释不同。
+根據定義，這本書中的一切都是斷章取義。解釋會隨著時間的推移而改變。寬宏大量地閱讀和口譯。理解原意可能與您在不同時間、不同介質、不同格式和不同背景下的解釋不同。
 
 In the process of creating this book, I may have mistakenly re -contextualized , misinterpreted, or misunderstood things. As content passed through time, space, and medium, some phrasing may have shifted in flight. Every effort has been made to maintain the original intent, but errors are (very) possible.
 
-在创作这本书的过程中，我可能会错误地重新理解、曲解或误解了一些东西。随着内容穿越时间、空间和媒介，一些措辞可能会在飞行中发生变化。我们已经尽了一切努力来保持原意，但(很)可能会出错。
+在創作這本書的過程中，我可能會錯誤地重新理解、曲解或誤解了一些東西。隨著內容穿越時間、空間和媒介，一些措辭可能會在飛行中發生變化。我們已經盡了一切努力來保持原意，但(很)可能會出錯。
 
 Interviews have been transcribed, edited, rearranged, and re -edited for readability. I did my best to keep Naval’s ideas in his own words.
 
-采访内容经过转录、编辑、重新编排和重新编辑，以提高可读性。我尽了最大努力把纳瓦尔的想法用他自己的话表达出来。
+採訪內容經過轉錄、編輯、重新編排和重新編輯，以提高可讀性。我盡了最大努力把納瓦爾的想法用他自己的話表達出來。
 
 All brilliance in this book is Naval’s; any mistakes are mine.
 
-这本书里所有的才华都是纳瓦尔的，任何错误都是我的。
+這本書裡所有的才華都是納瓦爾的，任何錯誤都是我的。
